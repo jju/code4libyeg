@@ -1,6 +1,6 @@
 # code{4}lib Alberta
 
-
+![code4lib Alberta logo](/images/c4l-ab.png)
 
 ## Events
 
