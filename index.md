@@ -11,7 +11,7 @@
 * Cost: Free
 * Registration: Please fill out this form.
 
-[Past Events](events.html)
+### [Past Events](events.html)
 
 ## Join Us
 
@@ -19,4 +19,4 @@ The YEG chapter of Code4Lib aims to bring together library folks from Edmonton a
 
 We do this by holding and promoting opportunities related to programming, coding, making, hacking, design, open data.... basically we're interested in all things that can have code under the hood.
 
-Follow along by joining our Google Groups mailing list: https://groups.google.com/forum/?hl=en#!forum/code4lib-edmontonCode4lib
+Follow along by joining our [Google Groups mailing list](https://groups.google.com/forum/?hl=en#!forum/code4lib-edmontonCode4lib).
