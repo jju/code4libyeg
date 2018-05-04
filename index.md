@@ -2,14 +2,12 @@
 
 ![code4lib Alberta logo](/images/c4l-ab.png)
 
-## Events
-
-[Code4LibYEG Spring Workshop 2018](spring2018.html)
+## [Code4LibYEG Spring Workshop 2018](/events/spring2018.html)
 
 * Date: Friday, May 25, 2018
-* Location: Library Services Classroom, NAIT Library, U213 (118 Avenue & 106 Street) Map
+* Location: Library Services Classroom, NAIT Library, U213 (118 Avenue & 106 Street) [Map](http://www.nait.ca/97571.htm)
 * Cost: Free
-* Registration: Please fill out this form.
+* Registration: Please [fill out this form](https://goo.gl/forms/rhuVy2qQklUmaAB93).
 
 ### [Past Events](events.html)
 
