@@ -9,7 +9,7 @@ Code4lib Alberta Conference 2016 is a free, two-day event that focuses on innova
 * Cost: Free for the library community.
 * [Schedule](Fall2016.html)
 
-## [Code4Lib Alberta Unconference 2015](Fall2015.html)
+## [Code4Lib Alberta Unconference 2015](fall2015.html)
 
 Code4lib Alberta Conference 2015 is a free, two-day event that focuses on innovations in technology and how they can be applied in Alberta's library community.
 
@@ -17,7 +17,7 @@ Code4lib Alberta Conference 2015 is a free, two-day event that focuses on innova
 * Time: Tentatively 9:00 am - 4:00 pm each day
 * Where: Edmonton Room, Edmonton Public Library, Stanley A. Milner Branch
 * Cost: Free for anyone remotely associated with the library community.
-* [Schedule](Fall2015.html)
+* [Schedule](fall2015.html)
 
 ## Netspeed 2014 Pre-Conference Hackfest
 
