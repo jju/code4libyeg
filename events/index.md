@@ -7,7 +7,7 @@ Code4lib Alberta Conference 2016 is a free, two-day event that focuses on innova
 * When: November 24 - 25, 2016
 * Where: University of Alberta, Rutherford South, Room 2-09
 * Cost: Free for the library community.
-* [Schedule](Fall2016.html)
+* [Schedule](fall2016.html)
 
 ## [Code4Lib Alberta Unconference 2015](fall2015.html)
 
