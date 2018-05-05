@@ -1,5 +1,7 @@
 # code{4}lib Alberta
 
+Code4LibYEG is a collective of rogue librarians who have been organizing professional development opportunities for the Alberta library community since 2014. [Code4Lib](https://code4lib.org/) is a worldwide volunteer-driven collective of programmers, archivists, cataloguers, librarians, and other practitioners working in libraries, archives, and museums who wish to share "approaches, techniques, and code across institutional and project divides." In Canada four organizations represent professional development interests for library technologists.
+
 ## [Code4LibYEG Spring Workshop 2018](events/spring2018.html)
 
 * Date: Friday, May 25, 2018
