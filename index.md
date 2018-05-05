@@ -8,6 +8,7 @@
 * Location: Library Services Classroom, NAIT Library, U213 (118 Avenue & 106 Street) [Map](http://www.nait.ca/97571.htm)
 * Cost: Free
 * Registration: Please [fill out this form](https://goo.gl/forms/rhuVy2qQklUmaAB93).
+* [Schedule](events/spring2018.html)
 
 ### [Past Events](events/index.html)
 
