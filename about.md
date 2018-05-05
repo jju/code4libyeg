@@ -1,5 +1,5 @@
 # About Code4LibYEG
 
 > Did you know there is a collective of rogue librarians who have been organizing professional development opportunities for the Alberta library community over the past 4 years? Code4Lib is a worldwide volunteer-driven collective of programmers, archivists, cataloguers, librarians, and other practitioners working in libraries, archives, and museums who wish to share “approaches, techniques, and code across institutional and project divides”. In Canada four organizations represent professional development interests for library technologists. In this presentation, we reflect on the years of organizing meetings, workshops, conference, and social events as the local Code4Lib YEG Edmonton chapter. We will share lessons learned from organizing events on a virtually zero budget and memorable moments of peer-to-peer learning. In addition, we will also discuss our thoughts on growing the library technology community across Alberta, especially as it relates to our commitment to the philosophy of organizing without formal structure
->
+
 > from the **Embracing Anarchy? A Code4Lib YEG Retrospective** session description at Netspeed 2017
