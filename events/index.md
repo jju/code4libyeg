@@ -1,4 +1,4 @@
-# Code{4}LibYEG Events
+# Code4LibYEG Events
 
 ## [Code4LibYEG Spring Workshop 2018](spring2018.html)
 
