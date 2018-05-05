@@ -4,7 +4,7 @@
 * Location: Library Services Classroom, NAIT Library, U213 (118 Avenue & 106 Street) [Map](http://www.nait.ca/97571.htm)
 * Cost: Free
 * Registration: Please [fill out this form](https://goo.gl/forms/rhuVy2qQklUmaAB93).
-* [Code of Conduct](/coc4lib.html)
+* [Code of Conduct](/code4libyeg/coc4lib.html)
 
 ## Schedule
 
