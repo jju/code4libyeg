@@ -1,5 +1,13 @@
 # Code{4}LibYEG Events
 
+## [Code4LibYEG Spring Workshop 2018](spring2018.html)
+
+* Date: Friday, May 25, 2018
+* Location: Library Services Classroom, NAIT Library, U213 (118 Avenue & 106 Street) [Map](http://www.nait.ca/97571.htm)
+* Cost: Free
+* Registration: Please [fill out this form](https://goo.gl/forms/rhuVy2qQklUmaAB93).
+* [Schedule](spring2018.html)
+
 ## Code4Lib Alberta Conference 2016
 
 Code4lib Alberta Conference 2016 is a free, two-day event that focuses on innovations in technology and how they can be applied in Alberta's library community.
@@ -7,7 +15,7 @@ Code4lib Alberta Conference 2016 is a free, two-day event that focuses on innova
 * When: November 24 - 25, 2016
 * Where: University of Alberta, Rutherford South, Room 2-09
 * Cost: Free for the library community.
-* [Schedule](fall2016.html)
+* Schedule
 
 ## [Code4Lib Alberta Unconference 2015](fall2015.html)
 
