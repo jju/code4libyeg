@@ -9,7 +9,7 @@
 * Cost: Free
 * Registration: Please [fill out this form](https://goo.gl/forms/rhuVy2qQklUmaAB93).
 
-### [Past Events](events.html)
+### [Past Events](events/index.html)
 
 ## Join Us
 
